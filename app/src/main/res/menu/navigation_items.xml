@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/card1"
+        android:title="Android App Development"
+        android:icon="@drawable/androidlogo"/>
+    <item
+        android:id="@+id/card2"
+        android:title="Web Development"
+        android:icon="@drawable/weblogo"/>
+    <item
+        android:id="@+id/card3"
+        android:title="@string/AIHead"
+        android:icon="@drawable/ailogo"/>
+    <item
+        android:id="@+id/card4"
+        android:title="@string/ml_head"
+        android:icon="@drawable/mllogo"/>
+    <item
+        android:id="@+id/btnContact"
+        android:title="Contact Us"
+        android:icon="@drawable/contact"
+        />
+
+</menu>
